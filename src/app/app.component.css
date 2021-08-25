@@ -1,0 +1,17 @@
+
+  .navbar_bg {
+    /* background-color: #473F97; */
+    background:linear-gradient(225deg,#ad8a1d,#ffc107 75%);
+    box-shadow: 0 5px 8px 0 rgb(0 0 0 / 14%);
+    z-index: 1;
+    
+}
+.navbar-light .nav-item .nav-link{
+    color: rgb(27, 3, 3)!important;
+    text-transform: uppercase;
+    font-family: 'Dosis', sans-serif;
+    font-weight: 400;
+}
+.active{
+    font-weight: 500!important;
+}
